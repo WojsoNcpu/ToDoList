@@ -11,9 +11,9 @@ namespace ToDoList
         {
             base.OnStartup(e);
 
-            var database = new ToDoListDbContext();
+            // var database = new ToDoListDbContext();
 
-            database.Database.EnsureCreated();
+            // database.Database.EnsureCreated();
         }
     }
 }
