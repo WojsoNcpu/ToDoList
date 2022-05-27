@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.activity\1.1.0.5\aar\androidx.activity.activity.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.annotation\1.1.0.8\jar" t="Include">
+      <e p="androidx.annotation.annotation.jar" t="Include" />
+    </e>
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.annotation.experimental\1.0.0.8\aar\androidx.annotation.annotation-experimental.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.appcompat\1.2.0.6\aar\androidx.appcompat.appcompat.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.appcompat\1.2.0.6\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.appcompat.appcompatresources\1.2.0.6\aar\androidx.appcompat.appcompat-resources.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.arch.core.common\2.1.0.7\jar\androidx.arch.core.core-common.jar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.arch.core.runtime\2.1.0.7\aar\androidx.arch.core.core-runtime.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.asynclayoutinflater\1.0.0.6\aar\androidx.asynclayoutinflater.asynclayoutinflater.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.browser\1.3.0\aar\androidx.browser.browser.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.cardview\1.0.0.6\aar\androidx.cardview.cardview.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.collection\1.1.0.6\jar\androidx.collection.collection.jar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.coordinatorlayout\1.1.0.6\aar\androidx.coordinatorlayout.coordinatorlayout.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.coordinatorlayout\1.1.0.6\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.core\1.3.2.1\aar\androidx.core.core.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.core\1.3.2.1\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.cursoradapter\1.0.0.6\aar\androidx.cursoradapter.cursoradapter.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.customview\1.1.0.4\aar\androidx.customview.customview.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.documentfile\1.0.1.6\aar\androidx.documentfile.documentfile.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.drawerlayout\1.1.1.1\aar\androidx.drawerlayout.drawerlayout.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.fragment\1.2.5.4\aar\androidx.fragment.fragment.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.fragment\1.2.5.4\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.interpolator\1.0.0.6\aar\androidx.interpolator.interpolator.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.legacy.support.core.ui\1.0.0.7\aar\androidx.legacy.legacy-support-core-ui.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.legacy.support.core.utils\1.0.0.6\aar\androidx.legacy.legacy-support-core-utils.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.legacy.support.v4\1.0.0.6\aar\androidx.legacy.legacy-support-v4.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.common\2.2.0.4\jar\androidx.lifecycle.lifecycle-common.jar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.livedata\2.2.0.4\aar\androidx.lifecycle.lifecycle-livedata.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.livedata.core\2.2.0.4\aar\androidx.lifecycle.lifecycle-livedata-core.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.runtime\2.2.0.4\aar\androidx.lifecycle.lifecycle-runtime.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.runtime\2.2.0.4\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.viewmodel\2.2.0.4\aar\androidx.lifecycle.lifecycle-viewmodel.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.viewmodel\2.2.0.4\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.viewmodelsavedstate\2.2.0.4\aar\androidx.lifecycle.lifecycle-viewmodel-savedstate.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.lifecycle.viewmodelsavedstate\2.2.0.4\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.loader\1.1.0.6\aar\androidx.loader.loader.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.localbroadcastmanager\1.0.0.6\aar\androidx.localbroadcastmanager.localbroadcastmanager.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.media\1.2.1.1\aar\androidx.media.media.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.media\1.2.1.1\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.print\1.0.0.6\aar\androidx.print.print.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.recyclerview\1.1.0.6\aar\androidx.recyclerview.recyclerview.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.recyclerview\1.1.0.6\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.savedstate\1.1.0.4-alpha01\aar\androidx.savedstate.savedstate.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.savedstate\1.1.0.4-alpha01\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.slidingpanelayout\1.1.0.1\aar\androidx.slidingpanelayout.slidingpanelayout.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.swiperefreshlayout\1.1.0.1\aar\androidx.swiperefreshlayout.swiperefreshlayout.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.transition\1.3.1.6\aar\androidx.transition.transition.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.transition\1.3.1.6\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.vectordrawable\1.1.0.6\aar\androidx.vectordrawable.vectordrawable.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.vectordrawable.animated\1.1.0.6\aar\androidx.vectordrawable.vectordrawable-animated.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.vectordrawable.animated\1.1.0.6\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.versionedparcelable\1.1.1.6\aar" t="Include">
+      <e p="androidx.versionedparcelable.versionedparcelable.aar" t="Include" />
+    </e>
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.versionedparcelable\1.1.1.6\proguard" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.viewpager\1.0.0.6\aar\androidx.viewpager.viewpager.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.androidx.viewpager2\1.0.0.8\aar\androidx.viewpager2.viewpager2.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.forms\5.0.0.2012\buildTransitive\MonoAndroid10" t="Include">
+      <e p="proguard.cfg" t="Include" />
+    </e>
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.google.android.material\1.2.1.1\aar\com.google.android.material.material.aar" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.google.android.material\1.2.1.1\proguard\proguard.txt" t="Include" />
+    <e p="C:\Users\wojso\.nuget\packages\xamarin.google.guava.listenablefuture\1.0.0.2\buildTransitive\monoandroid50" t="Include">
+      <e p="guava-listenablefuture.jar" t="Include" />
+    </e>
+    <e p="C:\Users\wojso\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wojso\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_ToDoList.437954508.00" t="ExcludeRecursive" />
+    <e p="D:\Projekty\ToDoList\ToDoList" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ToDoList" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controls" t="Include">
+          <e p="WorkTask.xaml" t="Include" />
+          <e p="WorkTask.xaml.cs" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0-windows" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="Controls" t="Include">
+                <e p="WorkTask.g.cs" t="Include" />
+              </e>
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="Pages" t="Include">
+                <e p="WorkTasksPage.g.cs" t="Include" />
+              </e>
+              <e p="ToDoList.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="WorkTasksPage.xaml" t="Include" />
+          <e p="WorkTasksPage.xaml.cs" t="Include" />
+        </e>
+        <e p="Styles" t="Include">
+          <e p="Buttons.xaml" t="Include" />
+        </e>
+        <e p="ToDoList.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoList.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FodyWeavers.xml" t="Include" />
+        <e p="Helpers" t="Include">
+          <e p="DatabaseLocator.cs" t="Include" />
+          <e p="RelayCommand.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ToDoList.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ToDoList.Core.csproj" t="IncludeRecursive" />
+        <e p="ViewModels" t="Include">
+          <e p="Base" t="Include">
+            <e p="BaseViewModel.cs" t="Include" />
+          </e>
+          <e p="Controls" t="Include">
+            <e p="WorkTaskViewModel.cs" t="Include" />
+          </e>
+          <e p="Pages" t="Include">
+            <e p="WorkTasksPageViewModel.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ToDoList.Database" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="WorkTask.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="ToDoList.Database.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ToDoList.Database.csproj" t="IncludeRecursive" />
+        <e p="ToDoListDbContext.cs" t="Include" />
+      </e>
+      <e p="ToDoList.Mobile\ToDoList.Mobile" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controls" t="Include">
+          <e p="WorkTask.xaml" t="Include" />
+          <e p="WorkTask.xaml.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="App.xaml.g.cs" t="Include" />
+              <e p="Controls" t="Include">
+                <e p="WorkTask.xaml.g.cs" t="Include" />
+              </e>
+              <e p="Pages" t="Include">
+                <e p="WorkTasksPage.xaml.g.cs" t="Include" />
+              </e>
+              <e p="ToDoList.Mobile.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="WorkTasksPage.xaml" t="Include" />
+          <e p="WorkTasksPage.xaml.cs" t="Include" />
+        </e>
+        <e p="ToDoList.Mobile.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoList.Mobile\ToDoList.Mobile.Android" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="110" t="Include">
+              <e p="designtime" t="Include">
+                <e p="Resource.designer.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="drawable" t="Include" />
+          <e p="mipmap-anydpi-v26" t="Include">
+            <e p="icon.xml" t="Include" />
+            <e p="icon_round.xml" t="Include" />
+          </e>
+          <e p="mipmap-hdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-mdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="values" t="Include">
+            <e p="colors.xml" t="Include" />
+            <e p="styles.xml" t="Include" />
+          </e>
+        </e>
+        <e p="ToDoList.Mobile.Android.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoList.Mobile\ToDoList.Mobile.iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+            <e p="Icon1024.png" t="Include" />
+            <e p="Icon120.png" t="Include" />
+            <e p="Icon152.png" t="Include" />
+            <e p="Icon167.png" t="Include" />
+            <e p="Icon180.png" t="Include" />
+            <e p="Icon20.png" t="Include" />
+            <e p="Icon29.png" t="Include" />
+            <e p="Icon40.png" t="Include" />
+            <e p="Icon58.png" t="Include" />
+            <e p="Icon60.png" t="Include" />
+            <e p="Icon76.png" t="Include" />
+            <e p="Icon80.png" t="Include" />
+            <e p="Icon87.png" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Info.plist" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="LaunchScreen.storyboard" t="Include" />
+        </e>
+        <e p="ToDoList.Mobile.iOS.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoList.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

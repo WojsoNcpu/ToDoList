@@ -20,6 +20,16 @@ namespace ToDoList.Core
         {
             AddNewTaskCommand = new RelayCommand(AddNewTask);
             DeleteSelectedTasksCommand = new RelayCommand(DeleteSelectedTasks);
+
+            foreach( var task in DatabaseLocator.Database.WorkTasks.ToList())
+            {
+                WorkTaskList.Add(new WorkTaskViewModel
+                {
+                    Title = task.Title,
+                    Description = task.Description,
+                    CreatedDate = task.CreatedDate,
+                });
+            }
         }
 
         private void AddNewTask()
@@ -33,6 +43,13 @@ namespace ToDoList.Core
 
             WorkTaskList.Add(newTask);
 
+            // DatabaseLocator.Database.WorkTasks.Add(new WorkTask
+            // {
+               // Title = newTask.Title,
+                //Description = newTask.Description,
+               // CreatedDate = newTask.CreatedDate,
+            // });
+
             NewWorkTaskTitle = string.Empty;
             NewWorkTaskDescription = string.Empty;
         }
@@ -44,6 +61,8 @@ namespace ToDoList.Core
             foreach (var task in selectedTasks)
             {
                 WorkTaskList.Remove(task);
+                // DatabaseLocator.Database.WorkTasks.Where();
+                
             }
         }
     }
