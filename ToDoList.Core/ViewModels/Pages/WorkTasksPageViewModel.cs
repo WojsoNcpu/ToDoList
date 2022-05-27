@@ -21,7 +21,7 @@ namespace ToDoList.Core
             AddNewTaskCommand = new RelayCommand(AddNewTask);
             DeleteSelectedTasksCommand = new RelayCommand(DeleteSelectedTasks);
 
-            foreach( var task in DatabaseLocator.Database.WorkTasks.ToList())
+            foreach( var task in) // DatabaseLocator.Database.WorkTasks.ToList())
             {
                 WorkTaskList.Add(new WorkTaskViewModel
                 {

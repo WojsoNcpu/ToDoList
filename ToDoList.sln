@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Mobile.iOS", "ToDo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Mobile", "ToDoList.Mobile\ToDoList.Mobile\ToDoList.Mobile.csproj", "{089C6719-04CB-48EB-8D88-B5FC19A01597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Database", "ToDoList.Database\ToDoList.Database.csproj", "{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,18 +87,6 @@ Global
 		{089C6719-04CB-48EB-8D88-B5FC19A01597}.Release|iPhone.Build.0 = Release|Any CPU
 		{089C6719-04CB-48EB-8D88-B5FC19A01597}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{089C6719-04CB-48EB-8D88-B5FC19A01597}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|iPhone.Build.0 = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{741AB2B8-43D7-4EC0-9AA6-7A602392E48A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
