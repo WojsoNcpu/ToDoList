@@ -2,6 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows.Input;
+using ToDoList.Database;
 
 namespace ToDoList.Core
 {
@@ -21,10 +22,11 @@ namespace ToDoList.Core
             AddNewTaskCommand = new RelayCommand(AddNewTask);
             DeleteSelectedTasksCommand = new RelayCommand(DeleteSelectedTasks);
 
-            foreach( var task in) // DatabaseLocator.Database.WorkTasks.ToList())
+            foreach( var task in DatabaseLocator.Database.WorkTasks.ToList())
             {
                 WorkTaskList.Add(new WorkTaskViewModel
                 {
+                    Id = task.Id,
                     Title = task.Title,
                     Description = task.Description,
                     CreatedDate = task.CreatedDate,
@@ -43,12 +45,14 @@ namespace ToDoList.Core
 
             WorkTaskList.Add(newTask);
 
-            // DatabaseLocator.Database.WorkTasks.Add(new WorkTask
-            // {
-               // Title = newTask.Title,
-                //Description = newTask.Description,
-               // CreatedDate = newTask.CreatedDate,
-            // });
+            DatabaseLocator.Database.WorkTasks.Add(new WorkTask
+            {
+               Title = newTask.Title,
+               Description = newTask.Description,
+               CreatedDate = newTask.CreatedDate,
+            });
+
+            DatabaseLocator.Database.SaveChanges();
 
             NewWorkTaskTitle = string.Empty;
             NewWorkTaskDescription = string.Empty;
@@ -61,9 +65,15 @@ namespace ToDoList.Core
             foreach (var task in selectedTasks)
             {
                 WorkTaskList.Remove(task);
-                // DatabaseLocator.Database.WorkTasks.Where();
-                
+
+                var foundEntity = DatabaseLocator.Database.WorkTasks.FirstOrDefault(x => x.Id == task.Id);
+                if(foundEntity != null)
+                {
+                    DatabaseLocator.Database.WorkTasks.Remove(foundEntity);
+                }
             }
+
+            DatabaseLocator.Database.SaveChanges();
         }
     }
 }
