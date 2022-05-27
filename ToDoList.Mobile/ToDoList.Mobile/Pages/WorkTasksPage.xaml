@@ -5,7 +5,7 @@
              x:Class="ToDoList.Mobile.WorkTaskPage">
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="To Do List!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Label Text="Witaj w aplikacji ToDoList!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="To są twoje dzisiejsze zadania:" />
         <ListView ItemsSource="{Binding WorkTaskList}"
