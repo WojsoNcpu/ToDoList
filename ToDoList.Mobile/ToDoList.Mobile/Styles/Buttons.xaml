@@ -2,25 +2,12 @@
 <ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ToDoList.Mobile.Buttons">
-    
-    
-    <Style TargetType="{x:Type Button}" x:Key="DefaultButtonStyle">
-
-        <Setter Property="Background" Value="Orange" />
-        <Setter Property="Foreground" Value="White" />
-        <Setter Property="Padding" Value="12" />
-        <Setter Property="FontSize" Value="20" />
-    </Style>
 
     <Style TargetType="{x:Type Entry}" x:Key="DefaultEntryStyle">
 
-        <Setter Property="Padding" Value="8" />
-        <Setter Property="Margin" Value="0 10" />
+        <Setter Property="Background" Value="Red" />
+        
+        
     </Style>
 
-    <Style TargetType="{x:Type Label}" x:Key="DefaultLabelStyle">
-
-        <Setter Property="FontSize" Value="16" />
-
-    </Style> 
 </ResourceDictionary>
