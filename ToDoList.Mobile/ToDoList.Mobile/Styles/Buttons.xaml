@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ToDoList.Mobile.Buttons"
-             xmlns:local="clr-namespace:ToDoList.Mobile">
+             x:Class="ToDoList.Mobile.Buttons">
+    
     
     <Style TargetType="{x:Type Button}" x:Key="DefaultButtonStyle">
 
@@ -10,7 +10,6 @@
         <Setter Property="Foreground" Value="White" />
         <Setter Property="Padding" Value="12" />
         <Setter Property="FontSize" Value="20" />
-        <Setter Property="Cursor" Value="Hand" />
     </Style>
 
     <Style TargetType="{x:Type Entry}" x:Key="DefaultEntryStyle">

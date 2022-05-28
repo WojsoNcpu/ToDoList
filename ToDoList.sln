@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Mobile.iOS", "ToDo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Mobile", "ToDoList.Mobile\ToDoList.Mobile\ToDoList.Mobile.csproj", "{089C6719-04CB-48EB-8D88-B5FC19A01597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Database", "ToDoList.Database\ToDoList.Database.csproj", "{5553F9CB-D52D-4922-AA85-1DCD4311A1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.Database", "ToDoList.Database\ToDoList.Database.csproj", "{5553F9CB-D52D-4922-AA85-1DCD4311A1BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
