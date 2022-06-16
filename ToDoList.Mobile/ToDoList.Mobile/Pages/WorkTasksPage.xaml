@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:ToDoList.Mobile" xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:local="clr-namespace:ToDoList.Mobile"
              x:Class="ToDoList.Mobile.WorkTaskPage">
+
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Witaj w aplikacji ToDoList!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="To są twoje dzisiejsze zadania:" Style="{Binding DefaultLabelStyle}" />
+        <Label Text="To są twoje dzisiejsze zadania:"/>
         <ListView ItemsSource="{Binding WorkTaskList}"
                   HeightRequest="300" 
                   RowHeight="85">
@@ -17,18 +18,21 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <Label Text="Tytuł zadania:" Style="{Binding DefaultLabelStyle}" />
-        <Entry Text="{Binding NewWorkTaskTitle, Mode=TwoWay}" Style="{Binding DefaultEntryStyle}" />
-        <Label Text="Opis zadania:" Style="{Binding DefaultLabelStyle}" />
-        <Entry Text="{Binding NewWorkTaskDescription, Mode=TwoWay}" Style="{Binding DefaultEntryStyle}" />
+        <Label Text="Tytuł zadania:" />
+        <Entry Text="{Binding NewWorkTaskTitle, Mode=TwoWay}"/>
+        <Label Text="Opis zadania:"/>
+        <Entry Text="{Binding NewWorkTaskDescription, Mode=TwoWay}" />
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
 
-            <Button Text="Dodaj" Command="{Binding AddNewTaskCommand}" Style="{Binding DefaultButtonStyle}" />
-            <Button Grid.Column="1" Text="Usuń" Command="{Binding DeleteSelectedTasksCommand}" Style="{Binding DefaultButtonStyle}" />
+            <Button Command="{Binding AddNewTaskCommand}" Text="Dodaj"/> 
+
+            <Button Grid.Column="1" 
+                    Command="{Binding DeleteSelectedTasksCommand}"
+                    Text="Usuń"/>
         </Grid>
     </StackLayout>
 </ContentPage>
